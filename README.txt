@@ -1,4 +1,3 @@
-//задание 7
 #include <stdio.h>
 #include <tgbot/tgbot.h>
 
