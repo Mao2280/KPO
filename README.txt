@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <tgbot/tgbot.h>
-
+//12
 int main() {
     TgBot::Bot bot("PLACE YOUR TOKEN HERE");
     bot.getEvents().onCommand("start", [&bot](TgBot::Message::Ptr message) {
